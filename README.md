@@ -6,11 +6,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Computer Science and Engineering student specialized in Data Science and Engineering at Unversity of Moratuwa Sri Lanka.
-- 📚 I’m currently learning backend web and mobile app development, Deep learning and AI.
-- 👯 Hands on experience in Deep learning & machine learning, different CNN architecture for image/video processing, GenAI
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
-
+- 🔭 I’m currently a Computer Science and Engineering student 
+- 📚 I’m currently learning
 
 <a href = 'https://github.com/tharoosha'>
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&" />
@@ -22,15 +19,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <p>
 <div align=center>
 
-![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-![github](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
-![github](https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
-![github](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+
 
 </div>
 </p>
