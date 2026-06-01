@@ -1,117 +1,171 @@
 <!-- ====================================================================== -->
-<!--                  RISHITHA MENUSHA · AI-THEMED README                   -->
-<!--          ⚡ Neon · Futuristic · Animated GitHub Profile ⚡             -->
+<!--             RISHITHA MENUSHA · ADVANCED AI PROFILE UI                  -->
+<!--      ◆ Bento Dashboard · Realistic Icons · Animated · Interactive ◆   -->
 <!-- ====================================================================== -->
 
 <!-- ===== HERO HEADER ===== -->
 <a href="https://github.com/rishithamenush">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:8B5CF6,100:EC4899&height=240&section=header&text=Rishitha%20Menusha&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%9A%A1%20Architecting%20intelligent%2C%20scalable%20systems&descAlignY=53&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:8B5CF6,100:EC4899&height=250&section=header&text=Rishitha%20Menusha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Software%20Engineer%20%E2%97%86%20Building%20intelligent%2C%20scalable%20systems&descAlignY=52&descSize=16" width="100%"/>
 </a>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+initializing+developer.exe...;Software+Engineer+%7C+AI+%26+Automation;Designing+systems+that+think+%F0%9F%A4%96;Clean+code.+Real+impact.+%E2%9C%A8;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+AI+%26+Automation;Designing+systems+that+scale+%F0%9F%9A%80;Clean+code.+Real+impact.+%E2%9C%A8;Turning+ideas+into+products+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ===== QUICK LINKS ===== -->
+<!-- ===== STATUS TAGS + SOCIALS ===== -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=rishithamenush&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=flat-square&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Based%20in-Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0-0EA5E9?style=flat-square" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;
+<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;
+<a href="https://github.com/rishithamenush"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;
+<a href="https://your-portfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="40" /></a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rishithamenush&color=8B5CF6&style=for-the-badge&label=VIEWS" />
 
 </div>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ===== ABOUT ME ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; whoami
+<!-- ===== ABOUT ME · BENTO ===== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<table border="0">
+<tr>
+<td valign="top" width="58%">
 
 ```python
 class RishithaMenusha:
     def __init__(self):
-        self.role        = "Software Engineer"
-        self.experience  = "2+ years"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.focus       = ["Scalable Apps", "AI Integration", "Automation"]
-        self.learning    = ["System Design", "Cloud", "LLM Tooling"]
-        self.philosophy  = "Simple, clean code that solves real problems"
+        self.role       = "Software Engineer"
+        self.experience = "2+ years"
+        self.location   = "Sri Lanka 🇱🇰"
+        self.focus      = ["Scalable Apps",
+                           "AI Integration",
+                           "Automation"]
+        self.learning   = ["System Design",
+                           "Cloud", "LLM Tooling"]
 
-    def life_motto(self):
+    def motto(self):
         return "Automate the boring → build the exciting 🚀"
 ```
 
-> `🤖` Building **AI-powered, scalable software & automation tools**
-> `🌱` Forever exploring **new tech & engineering best practices**
-> `💬` Ask me about **software engineering, system design & automation**
-> `⚡` I turn ideas into **reliable, production-ready software**
-> `📫` Reach me on **[LinkedIn](https://www.linkedin.com/in/rishitha-menusha-579813276/)**
-
-<br clear="right"/>
-
-<!-- ===== ANIMATED DIVIDER ===== -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ===== TECH STACK ===== -->
-## 🧰 &nbsp; Arsenal
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 🧠 Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-#### 🎨 Frontend & Mobile
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<sub>🤖 Building AI-powered, scalable software &nbsp;•&nbsp; 🌱 Always learning &nbsp;•&nbsp; ⚡ Ideas → production-ready software</sub>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="42%">
 
-#### ⚙️ Backend & Database
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### ☁️ Tools & DevOps
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>⚡ A bit more about me</b></summary>
+<br/>
+
+- 💬 &nbsp;Ask me about **software engineering, system design & automation**
+- 🛠️ &nbsp;I love building tools that remove repetitive work
+- 🎯 &nbsp;Currently leveling up in **cloud architecture & LLM tooling**
+- 📫 &nbsp;Best way to reach me → **[LinkedIn](https://www.linkedin.com/in/rishitha-menusha-579813276/)**
+
+</details>
+
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ===== TECH STACK ===== -->
+## 🧰 &nbsp; Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,python,java,dart&theme=dark" height="46" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend & Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&theme=dark" height="46" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend & Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&theme=dark" height="46" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" height="46" /></td>
+</tr>
+</table>
+
 </div>
+
+<!-- ===== FEATURED PROJECTS · BENTO GRID ===== -->
+<!-- 👉 Replace the titles, descriptions and links below with your real projects -->
+## 🚀 &nbsp; Featured Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔹 Project One
+A short one-line description of what this project does and the problem it solves.
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="28" />
+
+[`Live Demo`](https://your-demo.com) &nbsp;•&nbsp; [`Source`](https://github.com/rishithamenush)
+
+</td>
+<td valign="top" width="50%">
+
+### 🔹 Project Two
+A short one-line description of what this project does and the problem it solves.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="28" />
+
+[`Live Demo`](https://your-demo.com) &nbsp;•&nbsp; [`Source`](https://github.com/rishithamenush)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔹 Project Three
+A short one-line description of what this project does and the problem it solves.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="28" />
+
+[`Live Demo`](https://your-demo.com) &nbsp;•&nbsp; [`Source`](https://github.com/rishithamenush)
+
+</td>
+<td valign="top" width="50%">
+
+### 🔹 Project Four
+A short one-line description of what this project does and the problem it solves.
+
+<img src="https://skillicons.dev/icons?i=python,docker,aws" height="28" />
+
+[`Live Demo`](https://your-demo.com) &nbsp;•&nbsp; [`Source`](https://github.com/rishithamenush)
+
+</td>
+</tr>
+</table>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===== GITHUB STATS ===== -->
-## 📊 &nbsp; Performance Metrics
+## 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -127,7 +181,7 @@ class RishithaMenusha:
 </div>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 &nbsp; Activity Pulse
+## 📈 &nbsp; Activity Graph
 
 <div align="center">
 
@@ -136,7 +190,7 @@ class RishithaMenusha:
 </div>
 
 <!-- ===== TROPHIES ===== -->
-## 🏆 &nbsp; Achievements
+## 🏆 &nbsp; Trophies
 
 <div align="center">
 
@@ -168,16 +222,16 @@ class RishithaMenusha:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===== CONNECT ===== -->
-## 🤝 &nbsp; Let's Build Something Intelligent
+## 🤝 &nbsp; Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://skillicons.dev/icons?i=linkedin" height="42" /></a>&nbsp;
+<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="42" /></a>&nbsp;
+<a href="https://github.com/rishithamenush"><img src="https://skillicons.dev/icons?i=github" height="42" /></a>&nbsp;
+<a href="https://your-portfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="42" /></a>
 
 <br/><br/>
-
 <i>⚡ Thanks for visiting — let's turn ideas into reality together!</i>
 
 </div>
