@@ -21,11 +21,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          branch: output
-          create_branch: true
-          push_options: '--force'
-          commit_message: "Update snake animation"
-          file_pattern: dist/*.svg
-          skip_checkout: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
