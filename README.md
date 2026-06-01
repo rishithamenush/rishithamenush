@@ -1,61 +1,71 @@
 <!-- ====================================================================== -->
-<!--                       RISHITHA MENUSHA · README                        -->
-<!--        ✨ Modern · AI-inspired · Animated GitHub Profile ✨             -->
+<!--                  RISHITHA MENUSHA · AI-THEMED README                   -->
+<!--          ⚡ Neon · Futuristic · Animated GitHub Profile ⚡             -->
 <!-- ====================================================================== -->
 
-<!-- ===== ANIMATED HEADER BANNER ===== -->
+<!-- ===== HERO HEADER ===== -->
 <a href="https://github.com/rishithamenush">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:764BA2&height=220&section=header&text=Rishitha%20Menusha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Building%20intelligent%2C%20scalable%20systems&descAlignY=56&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,40:8B5CF6,100:EC4899&height=240&section=header&text=Rishitha%20Menusha&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%9A%A1%20Architecting%20intelligent%2C%20scalable%20systems&descAlignY=53&descSize=16" width="100%"/>
 </a>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7CF6&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;Building+with+AI+%26+Automation+%F0%9F%A4%96;Clean+Code+Advocate+%E2%9C%A8;Turning+Ideas+into+Production+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+initializing+developer.exe...;Software+Engineer+%7C+AI+%26+Automation;Designing+systems+that+think+%F0%9F%A4%96;Clean+code.+Real+impact.+%E2%9C%A8;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ===== SOCIAL / QUICK LINKS ===== -->
+<!-- ===== QUICK LINKS ===== -->
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=rishithamenush&color=8B7CF6&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=rishithamenush&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===== ABOUT ME ===== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; whoami
 
-<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```typescript
-const rishitha: Engineer = {
-  role: "Software Engineer",
-  experience: "2+ years",
-  location: "Sri Lanka 🇱🇰",
-  focus: ["Scalable Apps", "AI Integration", "Automation"],
-  learning: ["System Design", "Cloud", "LLM Tooling"],
-  philosophy: "Great software is simple, clean, and solves real problems",
-  funFact: "I automate the boring stuff so I can build the exciting stuff",
-};
+```python
+class RishithaMenusha:
+    def __init__(self):
+        self.role        = "Software Engineer"
+        self.experience  = "2+ years"
+        self.location    = "Sri Lanka 🇱🇰"
+        self.focus       = ["Scalable Apps", "AI Integration", "Automation"]
+        self.learning    = ["System Design", "Cloud", "LLM Tooling"]
+        self.philosophy  = "Simple, clean code that solves real problems"
+
+    def life_motto(self):
+        return "Automate the boring → build the exciting 🚀"
 ```
 
-- 🤖 &nbsp;Building **AI-powered, scalable software & automation tools**
-- 🌱 &nbsp;Always exploring **new technologies and engineering best practices**
-- 💬 &nbsp;Ask me about **software engineering, system design & automation**
-- ⚡ &nbsp;I turn ideas into **reliable, production-ready software**
-- 📫 &nbsp;Reach me on **[LinkedIn](https://www.linkedin.com/in/rishitha-menusha-579813276/)**
+> `🤖` Building **AI-powered, scalable software & automation tools**
+> `🌱` Forever exploring **new tech & engineering best practices**
+> `💬` Ask me about **software engineering, system design & automation**
+> `⚡` I turn ideas into **reliable, production-ready software**
+> `📫` Reach me on **[LinkedIn](https://www.linkedin.com/in/rishitha-menusha-579813276/)**
 
 <br clear="right"/>
 
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+## 🧰 &nbsp; Arsenal
 
 <div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 #### 🧠 Languages
 <p>
@@ -74,6 +84,9 @@ const rishitha: Engineer = {
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 #### ⚙️ Backend & Database
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -88,35 +101,42 @@ const rishitha: Engineer = {
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+</td>
+</tr>
+</table>
+
 </div>
+
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Analytics
+## 📊 &nbsp; Performance Metrics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishithamenush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B7CF6&icon_color=8B7CF6" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithamenush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B7CF6&langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rishithamenush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishithamenush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithamenush&theme=tokyonight&hide_border=true&background=0D1117&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishithamenush&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE" />
 
 </div>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Graph
+## 📈 &nbsp; Activity Pulse
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishithamenush&theme=react-dark&bg_color=0D1117&color=8B7CF6&line=8B7CF6&point=ffffff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishithamenush&theme=react-dark&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=EC4899&hide_border=true&area=true" width="100%" />
 
 </div>
 
 <!-- ===== TROPHIES ===== -->
-## 🏆 GitHub Trophies
+## 🏆 &nbsp; Achievements
 
 <div align="center">
 
@@ -125,7 +145,7 @@ const rishitha: Engineer = {
 </div>
 
 <!-- ===== SNAKE ANIMATION ===== -->
-## 🐍 Contribution Snake
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -137,20 +157,30 @@ const rishitha: Engineer = {
 
 </div>
 
+<!-- ===== DEV QUOTE ===== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<!-- ===== ANIMATED DIVIDER ===== -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- ===== CONNECT ===== -->
-## 🤝 Let's Connect
+## 🤝 &nbsp; Let's Build Something Intelligent
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rishitha-menusha-579813276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
-<i>💜 Thanks for visiting — let's build something intelligent together!</i>
+<i>⚡ Thanks for visiting — let's turn ideas into reality together!</i>
 
 </div>
 
 <!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,50:2C5364,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,60:8B5CF6,100:0EA5E9&height=140&section=footer" width="100%" />
